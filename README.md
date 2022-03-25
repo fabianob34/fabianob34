@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabianob34
-- 👀 I’m interested in  estagio
+- 👀 I’m interested in  estágio
 - 🌱 I’m currently learning  engenharia de software   
 - 💞️ I’m looking to  fazer curso online udemy Algoritmos e Lógica de Programação
 - 📫 How to reach me  fabianobarretobh@gmail.com
